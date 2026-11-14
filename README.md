@@ -1,3 +1,5 @@
-# ACCP Construction • Concept 01
+# ACCP Construction — Concept 01
 
-Source for an internal brand presentation. To run a local preview, place the separately distributed private asset folder alongside `index.html` and serve this directory with a static HTTP server. The presentation images and branded mockups are distributed through the authenticated review site. The quote form is a prototype and does not transmit data.
+The presentation is self-contained in `index.html`, with image assets, fonts, styles, and interactivity embedded. Open it locally or publish the root of `main` with GitHub Pages.
+
+The architectural imagery and mockups are illustrative. The quote form is a prototype and does not send data.
