@@ -66,9 +66,9 @@ h3{font-size:clamp(20px,2.15vw,28px);font-weight:650}
 .logo-original img{width:52%;max-height:88%;object-fit:contain}
 .logo-ink{background:#eeeae2;color:#131313}
 .logo-silver{background:#171818}
-.logo-silver .mark{background:linear-gradient(150deg,#fff,#9ea6ac 43%,#eee 65%,#737c86)}
+.logo-silver .mark{background:linear-gradient(155deg,#ffffff 5%,#c2d0dd 44%,#f4f7fb 67%,#a5b5c5 96%)}
 .logo-bronze{background:#22201a}
-.logo-bronze .mark{background:linear-gradient(135deg,#ffebc9,#a47b54 55%,#dcc09b 80%,#f9e1ba)}
+.logo-bronze .mark{background:linear-gradient(145deg,#fff2d6 4%,#efbf83 43%,#ffdfa8 65%,#c9965f 96%)}
 .logo-tile figcaption{padding:12px 14px;font-size:13px;font-weight:650}
 .logo-tile small{display:block;color:var(--muted);font-weight:450}
 .kit-grid{display:grid;grid-template-columns:1.25fr 1fr .9fr;gap:14px;margin-top:18px}
@@ -93,9 +93,9 @@ h3{font-size:clamp(20px,2.15vw,28px);font-weight:650}
 .mockup-image{position:relative;overflow:hidden;border-radius:8px;background:#302d26}
 .mockup img{aspect-ratio:4/5;object-fit:cover}
 .mockup .mark{position:absolute;pointer-events:none}
-.card-mock .mark{width:44%;left:31%;top:35%;transform:rotate(-16deg) scaleY(.65);color:#e0bb93}
+.card-mock .mark{width:44%;left:31%;top:35%;transform:rotate(-16deg) scaleY(.65);background:linear-gradient(150deg,#fff1cb,#eab676 50%,#ffe5b4 76%,#dba875)}
 .polo-mock .mark{width:17%;left:56%;top:31%;color:#deddd6;transform:rotate(-3deg)}
-.truck-mock .mark{width:17%;left:54%;top:48%;color:#141715;transform:scaleY(.73)}
+.truck-mock .mark{width:15%;left:64.45%;top:50.15%;color:#171918;transform:translate(-50%,-50%) scaleY(.84)}
 .mockup figcaption{display:grid;gap:3px;padding:12px 1px 0;font-size:14px}
 .mockup figcaption span{color:var(--muted);font-size:12px}
 .quote-grid{display:grid;grid-template-columns:1fr 1.2fr;align-items:start;gap:clamp(24px,5vw,68px)}
@@ -147,7 +147,6 @@ form button{margin-top:14px}
  .mockup-grid{grid-template-columns:1fr 1fr}
  .mockup:last-child{grid-column:1/-1}
  .mockup:last-child img{aspect-ratio:1.85}
- .truck-mock .mark{top:46%;width:15%}
  .fields{grid-template-columns:1fr}
  .full{grid-column:auto}
  .footer p{order:3;width:100%}
